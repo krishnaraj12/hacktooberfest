@@ -8,4 +8,4 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 
 # How to participate?
-You just need to make five contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt.
+You just need to make five contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt. 
